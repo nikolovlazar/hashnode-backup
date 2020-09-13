@@ -102,4 +102,6 @@ The web development world has seen a significant change, and it will keep changi
 ---
 
 > 
-If you liked this article feel free to share it so more people can learn from it. 
+Show some love:
+
+%%[tw-how-to-render-your-website]
