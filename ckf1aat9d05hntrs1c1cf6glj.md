@@ -2,7 +2,7 @@
 
 ## Meet Uxcel
 
-A few weeks ago I stumbled upon [Uxcel](https://uxcel.com/), an app that teaches you UX/UI. It looked really clean, so I decided to give it a go. The app has a **Course**, **Lesson of the Week**, and a **UEye Training** sections.
+A few weeks ago I stumbled upon [Uxcel](https://uxcel.com/?ref=nikolovlazar.com), an app that teaches you UX/UI. It looked really clean, so I decided to give it a go. The app has a **Course**, **Lesson of the Week**, and a **UEye Training** sections.
 
 First I finished the UX/UI Design Foundation course. It has 6 levels which covers pretty much everything, like Color Theory, UI Design Principles, Typography, Iconography, Terminologies, Animations etc... The app's teaching method is fun. It shows you either 2 different images and you need to select the correct one, or 1 image with multiple answers. After you pick/answer it shows you the correct answer and a brief explanation.
 
@@ -16,8 +16,8 @@ Since finding out about it, I've never missed a day without doing some UEye Trai
 
 ## Pro tip:
 Uxcel is a PWA, a Progressive Web App. This means that you can install it on your Home screen on your smartphone. Here's how to do that:
-* On iOS: Open [app.uxcel.com/learn](https://app.uxcel.com/learn) in Safari, click on the Share button (the one in the middle), and scroll down. You should see a "Add to Home Screen" option.
-* On Android: Open [app.uxcel.com/learn](https://app.uxcel.com/learn) in Chrome and you should see a banner on the bottom saying "Add to home screen".
+* On iOS: Open [app.uxcel.com/learn](https://app.uxcel.com/learn?ref=nikolovlazar.com) in Safari, click on the Share button (the one in the middle), and scroll down. You should see a "Add to Home Screen" option.
+* On Android: Open [app.uxcel.com/learn](https://app.uxcel.com/learn?ref=nikolovlazar.com) in Chrome and you should see a banner on the bottom saying "Add to home screen".
 
 Make sure to install it on your smartphone, so you can practice anytime and anywhere.
 
