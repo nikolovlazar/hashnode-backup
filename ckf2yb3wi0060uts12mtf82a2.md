@@ -57,4 +57,6 @@ module.exports = {
 Working in teams is not always easy. But, it shouldn't be a nightmare too. Be smart about the tools you're using. Also, be smart about the communication. When the developers and designers are in total sync, amazing things can happen.
 
 ## Free Figma Template
-Click [here](https://www.figma.com/file/Gp06ea38Z2OBiMoXh8a8B1/Design-Handoff-Tailwind-CSS?node-id=0%3A1) to get the free Figma template.
+Check out the free Figma Template. Go through the pages and read the explanations. If you like it, feel free to duplicate it and use it in your projects!
+
+%%[improve-design-handoff-figma-embed]
