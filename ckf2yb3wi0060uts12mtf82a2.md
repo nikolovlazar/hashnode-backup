@@ -23,8 +23,6 @@ This is not rocket science. There are tons of tools and platforms available that
 
 1.  Teach your designers about the framework you plan to use. But also, let them teach you about the design tools they plan to use. Learn how to use Figma, or Adobe XD, or Sketch, or whatever the design team uses. You will be using that tool to view the design and build the product, so make sure you study it.
 2.  Design systems aren't only for the designers. Talk with the designers and create the design system in code. If you're developing a website, create a **theme.config.js** file and set up the design system there. Add the color palette, the spacing, the typography system. Try not to forget any elements from the design system. The js file should be simple. Here's something to get you started:
-
-
 ```javascript
 module.exports = {
    colors: {
@@ -41,8 +39,6 @@ module.exports = {
    }
 }
 ``` 
-
-
 3.  After setting up the design system, don't use values outside of it. If the margins in the design systems are 18px and 20px, never use 19px anywhere! Import your theme file and use only the things defined in it.
 4.  When viewing the design system, don't be superficial! Every little detail counts. If the designer set the background to `#121212`, don't see it as black and set it to `#000000` without checking. Check everything. Check the color, the font size, the line height, the border radius. You might think otherwise, but it's the little things that makes the design feel complete.
 
