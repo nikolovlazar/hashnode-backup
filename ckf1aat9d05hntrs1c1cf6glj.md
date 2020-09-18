@@ -29,7 +29,6 @@ Whether you're a developer or designer, Uxcel is one of the tools that can help 
 
 ---
 
->
-Show some love:
+Stay in the loop, follow me on Twitter:
 
-%%[tw-uxcel]
+%%[twitter-follow]
