@@ -31,4 +31,4 @@ Whether you're a developer or designer, Uxcel is one of the tools that can help 
 
 Stay in the loop, follow me on Twitter:
 
-%%[twitter-follow]
+%%[tw-webmentions-link]
