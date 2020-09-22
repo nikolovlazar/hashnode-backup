@@ -104,4 +104,4 @@ The web development world has seen a significant change, and it will keep changi
 > 
 Show some love:
 
-%%[tw-how-to-render-your-website]
+%[https://twitter.com/NikolovLazar/status/1304763623424823297]
