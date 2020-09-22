@@ -9,3 +9,7 @@ If you want to get notified when a new Portfolio Beef comes out, use the subscri
 I wish you good luck!
 
 %%[portfolio-beef-1]
+
+If you've coded this site, share your URL in this tweet:
+
+%[https://twitter.com/NikolovLazar/status/1308468443084136453]
