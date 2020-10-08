@@ -65,7 +65,7 @@ The server will also be **busier**. It needs to visit the database and prepare t
 
 When navigating between pages a **full page reload** needs to happen.
 
-### **Pros**
+### Pros
 
 SSR websites are **SEO friendly**! The search engines can get and index your data without executing extra scripts. Also, they can get the localized version, so you have better SEO for your supported languages.
 
