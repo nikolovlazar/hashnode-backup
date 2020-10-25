@@ -146,11 +146,16 @@ yarn add tailwindcss
 Optionally, we can create the empty `tailwind.config.js` file in the root directory:
 ```javascript
 module.exports = {
-    important: true,
-    purge: ['./pages/**/*.tsx'],
-    theme: {},
-    variants: {},
-    plugins: [],
+  important: true,
+  purge: {
+    content: ['./pages/**/*.tsx']
+  },
+  theme: {},
+  variants: {},
+  plugins: [],
+  future: {
+    purgeLayersByDefault: true,
+  },
 };
 ```
 
