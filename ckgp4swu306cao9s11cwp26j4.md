@@ -34,30 +34,35 @@ yarn add --dev typescript
 Then, we will need to create a new file in the root directory called `tsconfig.json`:
 
 ```json
-{  
-  "compilerOptions": {  
-    "allowJs": true,  
-    "alwaysStrict": true,  
-    "esModuleInterop": true,  
-    "forceConsistentCasingInFileNames": true,  
-    "isolatedModules": true,  
-    "jsx": "preserve",  
-    "lib": ["dom", "es2017"],  
-    "module": "esnext",  
-    "moduleResolution": "node",  
-    "noEmit": true,  
-    "noFallthroughCasesInSwitch": true,  
-    "sourceMap": true,  
-    "noUnusedLocals": true,  
-    "noUnusedParameters": true,  
-    "resolveJsonModule": true,  
-    "skipLibCheck": true,  
-    "strict": true,  
-    "target": "esnext",  
-    "baseUrl": ".",  
-  },  
-  "exclude": ["node_modules"],  
-  "include": ["**/*.ts", "**/*.tsx"]  
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }
 ```
 
