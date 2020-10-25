@@ -123,10 +123,10 @@ module.exports = {
 
 Now let's create the initial page and test if it works. Create a new directory called `pages` in the root, and inside create an `index.tsx` file:
 ```typescript
-const IndexPage = () => {
-  return (
-    <h1>Hello, CodeChem!</h1>
-  )
+import { FC } from 'react';
+
+const IndexPage: FC = () => {
+    return <h1>Hello, CodeChem!</h1>;
 };
 
 export default IndexPage;
@@ -184,13 +184,12 @@ In order to include Tailwind into our app, first we'll need to create a new CSS 
 
 Now, in order to include it in our app, we'll need to override Next JS's `_app.tsx` page by creating a new file: `pages/_app.tsx`:
 ```typescript
+import { FC } from 'react';
 import { AppProps } from 'next/app';
 
 import '../global.css';
 
-const App = ({ Component, pageProps }: AppProps) => (
-  <Component {...pageProps} />
-);
+const App: FC<AppProps> = ({ Component, pageProps }: AppProps) => <Component {...pageProps} />;
 
 export default App;
 ```
