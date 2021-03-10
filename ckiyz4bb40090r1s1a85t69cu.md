@@ -1,4 +1,4 @@
-## My 2020 retrospective: the best and the weirdest year so far
+## My 2020 retrospective
 
 This is it folks! 10 more days until we kiss 2020 goodbye. Honestly, it was a weird year. A global virus outbreak. Who would've thought? I used to see that only in the movies, but never imagined if I'd ever see it in real life (fortunately it wasn't a zombie virus 🧟‍♂️). Oddly enough, I've had some big achievements, which makes it my best year so far. So, I'm taking the time to reflect on all of the achievements 🏆 and fails 💩 through this article.
 
