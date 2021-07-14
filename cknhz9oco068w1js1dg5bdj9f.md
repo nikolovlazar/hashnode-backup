@@ -1,4 +1,4 @@
-## From Pet Project to Production 🚀
+## Building an MVP from Scratch 🚀
 
 Back in October 2020 I decided to start a pet project with a goal to learn a new technology. I noticed people on Twitter were saying how much they like the Developer Experience of Blitz JS so I decided to use it in this pet project.
 
